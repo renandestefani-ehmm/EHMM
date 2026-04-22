@@ -1,5 +1,5 @@
 {
   "latest_version": "2.3.1",
-  "download_url": "https://github.com/renandestefani-ehmm/EHMM/releases/download/v2.3.3/Expanded.Horizons.Mod.Manager.Setup.exe",
+  "download_url": "https://github.com/renandestefani-ehmm/EHMM/releases/download/v2.3.1/Expanded.Horizons.Mod.Manager.Setup.exe",
   "changelog": "Expanded Horizons Mod Manager — v2.3.0\n\n⚠ Important\n- Settings path has changed due to the new profile system.\n- Please back up or note your current multipliers before updating.\n\nAdded:\n- Profile Management system (Import / Export support)\n- 2 new mods for Building Settings\n- Loot Guide updated with clearer and more detailed information\n- Pak creation now performs automatic cleanup of old EH_* files (~mods folder)\n- Installer now correctly respects the selected installation path\n\nFixed:\n- Issues affecting multiplier values\n\nUI Changes:\n- Sliders now have hidden position indicators\n- Added labels to selected sliders\n- Modules now open with single-click instead of double-click\n\n----------------------------------------\n\nExpanded Horizons Mod Manager — v2.3.1\n\nFixed:\n- Open mod folder being disabled after importing or adding a new profile\n\nAdded:\n- Changelog is now displayed in the update prompt\n- Added warning when changes are made but not yet applied"
 }
